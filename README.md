@@ -9,13 +9,13 @@ dash: this can be installed by running the commandpip install dash
 dash_auth: this can be installed by running the commandpip install dash_auth
 ```
 ## running the application
-``sh
+```sh
 in the terminal window type: python orion_task_a10.py
 goto the url: http://localhost:8050
 
 
 ## User, Password
-``sh
+```sh
 Use any of the users and passwords:-
 username: JamesBond password:007
 username: LouisArmstrong password:satchmo
