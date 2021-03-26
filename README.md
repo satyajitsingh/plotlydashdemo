@@ -12,7 +12,7 @@ dash_auth: this can be installed by running the commandpip install dash_auth
 ```sh
 in the terminal window type: python orion_task_a10.py
 goto the url: http://localhost:8050
-
+```
 
 ## User, Password
 ```sh
